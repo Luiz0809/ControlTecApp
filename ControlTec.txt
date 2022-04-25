@@ -1,1 +1,5 @@
-java -jar ControlTec-1.0-jar-with-dependencies.jar
+Comando para Instalar versão mais recente do Java :
+	sdk install java
+
+Comando para rodar o JAR executável :
+	java -jar ControlTec-1.0-jar-with-dependencies.jar
